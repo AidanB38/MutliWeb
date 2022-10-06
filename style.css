@@ -1,0 +1,39 @@
+html{
+    background-color: white;
+
+}
+body {
+   text-align: center;
+   font-family:"Montserrat",Arial,Helvetica,sans-serif;
+}
+li {
+    list-style-type: none;
+    font-size:18px;
+}
+ol {
+    padding-left:0px;
+}
+hr {
+    margin-left:0px !important;
+}
+h2{
+    color:gray;
+    font-size:35px;
+    text-decoration-line:underline ;
+}
+.button1{
+    background-color:#EB212E;
+    font-size:16px;
+    border-radius: 5px;
+    width:10%;
+    height:25px;
+    color:white;
+    border:1px solid #EB212E;
+    font-style:italic;
+}
+.button1:hover{
+    background-color:white;
+    color:#EB212E;
+    
+}
+
